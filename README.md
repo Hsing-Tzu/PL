@@ -23,6 +23,8 @@
 ## > 作業連結區 :pencil:
 ###  - [作業1](https://github.com/Hsing-Tzu/PL/tree/main/%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80/%E4%BD%9C%E6%A5%AD1)
 ###  - [作業2](https://github.com/Hsing-Tzu/PL/tree/main/%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80/%E4%BD%9C%E6%A5%AD2)
+###  - [作業3](https://github.com/Hsing-Tzu/PL/tree/main/%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80/%E4%BD%9C%E6%A5%AD3)
+
 
 ## > 專題連結區 🔜
 
