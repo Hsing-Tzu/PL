@@ -29,4 +29,4 @@
 
 
 ## > 專題連結區 🔜
-
+### - [百科全書](https://www.figma.com/proto/Dh5M54bcDmmtcHXMRXxKXD/Techpedia?node-id=69%3A121&starting-point-node-id=69%3A121)
